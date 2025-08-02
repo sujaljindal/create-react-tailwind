@@ -1,6 +1,6 @@
 {
   "name": "create-react-tw",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "One-command Vite + React/Vue/Svelte + Tailwind CSS v4 starter",
   "bin": {
     "create-react-tailwind": "bin/index.js"
