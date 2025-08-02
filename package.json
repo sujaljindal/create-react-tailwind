@@ -3,7 +3,7 @@
   "version": "1.0.7",
   "description": "One-command Vite + React/Vue/Svelte + Tailwind CSS v4 starter",
   "bin": {
-    "create-react-tailwind": "./bin/index.js"
+    "create-react-tailwind": "bin/index.js"
   },
   "type": "module",
   "scripts": {
@@ -22,11 +22,11 @@
     "cli",
     "boilerplate"
   ],
-  "author": "Your Name <your.email@example.com>",
+  "author": "Sujal Jindal <sujaljindal679@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sujaljindal/create-react-tailwind.git"
+    "url": "git+https://github.com/sujaljindal/create-react-tailwind.git"
   },
   "homepage": "https://github.com/sujaljindal/create-react-tailwind#readme",
   "engines": {
