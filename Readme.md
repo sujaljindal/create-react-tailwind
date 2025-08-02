@@ -142,8 +142,18 @@ Your new application will be running at http://localhost:5173.
 📂 Project Structure
 create-react-tw sets up a clean, organized project structure designed for a great developer experience.
 
-![alt text](image.png)
-
+my-app/
+├── public/                 # Public assets
+├── src/
+│   ├── assets/
+│   ├── App.jsx             # Main application component
+│   ├── index.css           # Global Tailwind CSS directives
+│   └── main.jsx            # Entry point of the application
+├── index.html              # Main HTML file
+├── postcss.config.js       # PostCSS configuration with Autoprefixer
+├── tailwind.config.js      # Tailwind CSS configuration file
+├── vite.config.js          # Vite configuration
+└── package.json            # Project dependencies and scripts
 
 (Note: .tsx and .ts files will be used if you select TypeScript.)
 
